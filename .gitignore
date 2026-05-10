@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.duckdb
+*.duckdb.wal
+data/cybernova_analytics.duckdb
+data/cybernova.duckdb
+data/cybernova_iis_logs_messy.csv
+data/cybernova_iis_logs.csv

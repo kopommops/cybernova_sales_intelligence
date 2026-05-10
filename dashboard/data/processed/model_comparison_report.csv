@@ -1,0 +1,17 @@
+Dimension,OLS Regression (Benchmark),Polynomial Regression (degree-2),Stacking Classifier (RF+XGB+LR),DoWhy Backdoor LR (Primary)
+Effect Size (pp),4.793,-2.613,N/A — classifier,7.089
+CI Lower (pp),3.822,-3.421,N/A,6.768
+CI Upper (pp),5.765,-1.805,N/A,7.410
+CI Width (pp),1.943,1.616,N/A,0.642
+p-value,0.000000,0.000000,N/A,0.0
+R² / CV metric,R²=0.5320,R²=0.6838,ROC-AUC (CV)=1.0000,N/A — causal estimator
+CV score (5-fold),CV R²=0.5320,CV R²=0.6837,PR-AUC (CV)=1.0000,N/A
+Causal Identification,No — associational only,No — associational only,No — predictive only,Yes — backdoor criterion
+Confounding Controlled,Partial — regression adjustment,Partial — non-linear adjustment,No — black-box predictions,Yes — DAG-based identification
+Refutation Tested,No,No,No,Yes — both tests pass
+Business Interpretability,"Moderate — interpretable coefficients
+but cannot claim causation","Low — polynomial terms not
+management-interpretable","Low — no effect size; useful for
+lead scoring, not causal inference","High — ATE directly answers REQ-11:
+'does AI chat cause more conversions?'"
+Selected as Primary,NO,NO,NO,YES

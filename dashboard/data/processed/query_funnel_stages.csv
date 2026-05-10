@@ -1,0 +1,16 @@
+service_type,funnel_stage,sessions_at_stage
+AI Cyber Assistant,awareness,42810
+AI Cyber Assistant,interest,29034
+AI Cyber Assistant,consideration,9859
+Cyber Awareness Webinar,awareness,5314
+Cyber Awareness Webinar,interest,3721
+Cyber Awareness Webinar,consideration,1163
+Network Security Audit,awareness,37436
+Network Security Audit,interest,22522
+Network Security Audit,consideration,6926
+Penetration Testing,awareness,35661
+Penetration Testing,interest,19537
+Penetration Testing,consideration,7771
+Penetration Testing,conversion,2850
+Schedule Demo,awareness,27222
+Schedule Demo,interest,12472

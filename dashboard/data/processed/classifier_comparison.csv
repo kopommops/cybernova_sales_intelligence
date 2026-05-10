@@ -1,0 +1,6 @@
+model,ROC-AUC,PR-AUC,F1,Accuracy,ROC std
+Logistic Regression,0.9419,0.7291,0.869,0.934,0.0007
+Random Forest,1.0,1.0,1.0,1.0,0.0
+XGBoost / GBM,1.0,1.0,1.0,1.0,0.0
+Voting (soft),1.0,1.0,1.0,1.0,0.0
+Stacking,1.0,1.0,1.0,1.0,0.0

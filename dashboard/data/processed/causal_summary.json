@@ -1,0 +1,60 @@
+{
+  "ate_pp": 7.089,
+  "ci_lower_pp": 6.768,
+  "ci_upper_pp": 7.41,
+  "ci_width_pp": 0.642,
+  "p_value": "0.0",
+  "identification": "backdoor_linear_regression",
+  "dag_confounders": [
+    "service_enc",
+    "country_enc",
+    "hour_of_day",
+    "daily_request_volume",
+    "funnel_depth"
+  ],
+  "ate_hc3_pp": 7.089,
+  "ci_hc3_lower_pp": 6.689,
+  "ci_hc3_upper_pp": 7.489,
+  "p_value_hc3": 0.0,
+  "refutation": {
+    "placebo_ate_pp": -0.026,
+    "random_cause_pp": 7.089,
+    "placebo_pass": true,
+    "random_pass": true,
+    "both_pass": true
+  },
+  "ols_benchmark": {
+    "model": "OLS Regression",
+    "effect_pp": 4.793,
+    "ci_lower": 3.822,
+    "ci_upper": 5.765,
+    "p_value": 0.0,
+    "r_squared": 0.532,
+    "cv_r2_mean": 0.532,
+    "causal": false,
+    "refuted": false,
+    "interpretation": "Associational \u2014 confounding not fully controlled"
+  },
+  "polynomial": {
+    "model": "Polynomial Regression (degree-2)",
+    "effect_pp": -2.613,
+    "ci_lower": -3.421,
+    "ci_upper": -1.805,
+    "p_value": 0.0,
+    "r_squared": 0.6838,
+    "cv_r2_mean": 0.6837,
+    "causal": false,
+    "refuted": false,
+    "interpretation": "Associational \u2014 non-linear curvature captured, not causal"
+  },
+  "ensemble": {
+    "roc_auc_cv": 1.0,
+    "pr_auc_cv": 1.0
+  },
+  "demand_threshold": 183,
+  "threshold_method": "10th_percentile_historical",
+  "plain_language": "Engaging the AI Cyber Assistant causally increases demo conversion probability by 7.1 percentage points (95% CI: 6.8\u20137.4 pp). Both refutation tests passed. This estimate controls for service type, country, time of day, daily demand, and funnel depth.",
+  "n_sessions": 297372,
+  "conversion_rate_pct": 21.96,
+  "ai_engagement_rate_pct": 16.38
+}

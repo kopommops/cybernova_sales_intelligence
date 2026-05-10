@@ -1,0 +1,151 @@
+session_date,service_type,total_sessions,conversions,conv_rate_pct
+2026-03-08,AI Cyber Assistant,1264,322.0,25.47
+2026-03-08,Cyber Awareness Webinar,201,47.0,23.38
+2026-03-08,Network Security Audit,1381,267.0,19.33
+2026-03-08,Penetration Testing,1334,108.0,8.1
+2026-03-08,Schedule Demo,1005,466.0,46.37
+2026-03-09,AI Cyber Assistant,1356,330.0,24.34
+2026-03-09,Cyber Awareness Webinar,181,34.0,18.78
+2026-03-09,Network Security Audit,1378,274.0,19.88
+2026-03-09,Penetration Testing,1468,138.0,9.4
+2026-03-09,Schedule Demo,947,484.0,51.11
+2026-03-10,AI Cyber Assistant,1276,282.0,22.1
+2026-03-10,Cyber Awareness Webinar,198,49.0,24.75
+2026-03-10,Network Security Audit,1286,248.0,19.28
+2026-03-10,Penetration Testing,1373,129.0,9.4
+2026-03-10,Schedule Demo,885,456.0,51.53
+2026-03-11,AI Cyber Assistant,1388,345.0,24.86
+2026-03-11,Cyber Awareness Webinar,180,40.0,22.22
+2026-03-11,Network Security Audit,1336,247.0,18.49
+2026-03-11,Penetration Testing,1350,110.0,8.15
+2026-03-11,Schedule Demo,994,484.0,48.69
+2026-03-12,AI Cyber Assistant,1430,344.0,24.06
+2026-03-12,Cyber Awareness Webinar,189,60.0,31.75
+2026-03-12,Network Security Audit,1363,255.0,18.71
+2026-03-12,Penetration Testing,1398,116.0,8.3
+2026-03-12,Schedule Demo,878,378.0,43.05
+2026-03-13,AI Cyber Assistant,1409,347.0,24.63
+2026-03-13,Cyber Awareness Webinar,185,43.0,23.24
+2026-03-13,Network Security Audit,1284,258.0,20.09
+2026-03-13,Penetration Testing,1270,105.0,8.27
+2026-03-13,Schedule Demo,924,433.0,46.86
+2026-03-14,AI Cyber Assistant,1430,312.0,21.82
+2026-03-14,Cyber Awareness Webinar,202,57.0,28.22
+2026-03-14,Network Security Audit,1330,279.0,20.98
+2026-03-14,Penetration Testing,1371,113.0,8.24
+2026-03-14,Schedule Demo,871,410.0,47.07
+2026-03-15,AI Cyber Assistant,1423,349.0,24.53
+2026-03-15,Cyber Awareness Webinar,191,35.0,18.32
+2026-03-15,Network Security Audit,1302,252.0,19.35
+2026-03-15,Penetration Testing,1257,113.0,8.99
+2026-03-15,Schedule Demo,906,446.0,49.23
+2026-03-16,AI Cyber Assistant,1425,346.0,24.28
+2026-03-16,Cyber Awareness Webinar,188,51.0,27.13
+2026-03-16,Network Security Audit,1296,256.0,19.75
+2026-03-16,Penetration Testing,1295,94.0,7.26
+2026-03-16,Schedule Demo,931,436.0,46.83
+2026-03-17,AI Cyber Assistant,1427,366.0,25.65
+2026-03-17,Cyber Awareness Webinar,198,37.0,18.69
+2026-03-17,Network Security Audit,1290,269.0,20.85
+2026-03-17,Penetration Testing,1269,113.0,8.9
+2026-03-17,Schedule Demo,946,479.0,50.63
+2026-03-18,AI Cyber Assistant,1426,345.0,24.19
+2026-03-18,Cyber Awareness Webinar,182,41.0,22.53
+2026-03-18,Network Security Audit,1316,252.0,19.15
+2026-03-18,Penetration Testing,1359,148.0,10.89
+2026-03-18,Schedule Demo,934,435.0,46.57
+2026-03-19,AI Cyber Assistant,1466,357.0,24.35
+2026-03-19,Cyber Awareness Webinar,191,38.0,19.9
+2026-03-19,Network Security Audit,1352,277.0,20.49
+2026-03-19,Penetration Testing,1263,120.0,9.5
+2026-03-19,Schedule Demo,953,447.0,46.9
+2026-03-20,AI Cyber Assistant,1513,368.0,24.32
+2026-03-20,Cyber Awareness Webinar,162,40.0,24.69
+2026-03-20,Network Security Audit,1337,282.0,21.09
+2026-03-20,Penetration Testing,1246,108.0,8.67
+2026-03-20,Schedule Demo,945,472.0,49.95
+2026-03-21,AI Cyber Assistant,1485,331.0,22.29
+2026-03-21,Cyber Awareness Webinar,180,40.0,22.22
+2026-03-21,Network Security Audit,1274,266.0,20.88
+2026-03-21,Penetration Testing,1239,106.0,8.56
+2026-03-21,Schedule Demo,942,433.0,45.97
+2026-03-22,AI Cyber Assistant,1478,385.0,26.05
+2026-03-22,Cyber Awareness Webinar,183,41.0,22.4
+2026-03-22,Network Security Audit,1273,234.0,18.38
+2026-03-22,Penetration Testing,1282,116.0,9.05
+2026-03-22,Schedule Demo,970,479.0,49.38
+2026-03-23,AI Cyber Assistant,1480,371.0,25.07
+2026-03-23,Cyber Awareness Webinar,199,52.0,26.13
+2026-03-23,Network Security Audit,1394,248.0,17.79
+2026-03-23,Penetration Testing,1253,112.0,8.94
+2026-03-23,Schedule Demo,923,424.0,45.94
+2026-03-24,AI Cyber Assistant,1552,374.0,24.1
+2026-03-24,Cyber Awareness Webinar,196,40.0,20.41
+2026-03-24,Network Security Audit,1323,275.0,20.79
+2026-03-24,Penetration Testing,1201,101.0,8.41
+2026-03-24,Schedule Demo,912,428.0,46.93
+2026-03-25,AI Cyber Assistant,1597,395.0,24.73
+2026-03-25,Cyber Awareness Webinar,174,44.0,25.29
+2026-03-25,Network Security Audit,1343,243.0,18.09
+2026-03-25,Penetration Testing,1271,106.0,8.34
+2026-03-25,Schedule Demo,951,456.0,47.95
+2026-03-26,AI Cyber Assistant,1555,341.0,21.93
+2026-03-26,Cyber Awareness Webinar,200,48.0,24.0
+2026-03-26,Network Security Audit,1312,246.0,18.75
+2026-03-26,Penetration Testing,1265,119.0,9.41
+2026-03-26,Schedule Demo,931,446.0,47.91
+2026-03-27,AI Cyber Assistant,1556,371.0,23.84
+2026-03-27,Cyber Awareness Webinar,183,40.0,21.86
+2026-03-27,Network Security Audit,1284,242.0,18.85
+2026-03-27,Penetration Testing,1259,98.0,7.78
+2026-03-27,Schedule Demo,921,415.0,45.06
+2026-03-28,AI Cyber Assistant,1543,347.0,22.49
+2026-03-28,Cyber Awareness Webinar,201,44.0,21.89
+2026-03-28,Network Security Audit,1315,262.0,19.92
+2026-03-28,Penetration Testing,1221,105.0,8.6
+2026-03-28,Schedule Demo,960,466.0,48.54
+2026-03-29,AI Cyber Assistant,1561,347.0,22.23
+2026-03-29,Cyber Awareness Webinar,202,43.0,21.29
+2026-03-29,Network Security Audit,1338,274.0,20.48
+2026-03-29,Penetration Testing,1226,111.0,9.05
+2026-03-29,Schedule Demo,913,427.0,46.77
+2026-03-30,AI Cyber Assistant,1611,401.0,24.89
+2026-03-30,Cyber Awareness Webinar,156,38.0,24.36
+2026-03-30,Network Security Audit,1318,269.0,20.41
+2026-03-30,Penetration Testing,1207,99.0,8.2
+2026-03-30,Schedule Demo,977,475.0,48.62
+2026-03-31,AI Cyber Assistant,1583,365.0,23.06
+2026-03-31,Cyber Awareness Webinar,204,37.0,18.14
+2026-03-31,Network Security Audit,1342,266.0,19.82
+2026-03-31,Penetration Testing,1100,103.0,9.36
+2026-03-31,Schedule Demo,941,435.0,46.23
+2026-04-01,AI Cyber Assistant,1616,417.0,25.8
+2026-04-01,Cyber Awareness Webinar,150,38.0,25.33
+2026-04-01,Network Security Audit,1248,250.0,20.03
+2026-04-01,Penetration Testing,1185,100.0,8.44
+2026-04-01,Schedule Demo,963,446.0,46.31
+2026-04-02,AI Cyber Assistant,1726,428.0,24.8
+2026-04-02,Cyber Awareness Webinar,192,49.0,25.52
+2026-04-02,Network Security Audit,1311,211.0,16.09
+2026-04-02,Penetration Testing,1132,85.0,7.51
+2026-04-02,Schedule Demo,938,457.0,48.72
+2026-04-03,AI Cyber Assistant,1645,379.0,23.04
+2026-04-03,Cyber Awareness Webinar,171,37.0,21.64
+2026-04-03,Network Security Audit,1252,238.0,19.01
+2026-04-03,Penetration Testing,1162,80.0,6.88
+2026-04-03,Schedule Demo,906,418.0,46.14
+2026-04-04,AI Cyber Assistant,1645,431.0,26.2
+2026-04-04,Cyber Awareness Webinar,203,42.0,20.69
+2026-04-04,Network Security Audit,1183,219.0,18.51
+2026-04-04,Penetration Testing,1117,97.0,8.68
+2026-04-04,Schedule Demo,929,435.0,46.82
+2026-04-05,AI Cyber Assistant,1654,389.0,23.52
+2026-04-05,Cyber Awareness Webinar,168,35.0,20.83
+2026-04-05,Network Security Audit,1250,244.0,19.52
+2026-04-05,Penetration Testing,1062,98.0,9.23
+2026-04-05,Schedule Demo,959,444.0,46.3
+2026-04-06,AI Cyber Assistant,1827,458.0,25.07
+2026-04-06,Cyber Awareness Webinar,177,46.0,25.99
+2026-04-06,Network Security Audit,1343,270.0,20.1
+2026-04-06,Penetration Testing,1107,86.0,7.77
+2026-04-06,Schedule Demo,951,446.0,46.9
