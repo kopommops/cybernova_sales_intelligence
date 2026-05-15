@@ -1,6 +1,6 @@
 service_type,days_observed,mean_daily_sessions,median_daily_sessions,stddev_daily_sessions,min_daily_sessions,max_daily_sessions,mean_conv_rate_pct
-AI Cyber Assistant,30,1511.57,1499.0,125.71,1264,1827,24.12
-Network Security Audit,30,1311.8,1315.5,45.29,1183,1394,19.5
-Penetration Testing,30,1251.4,1258.0,94.78,1062,1468,8.61
-Schedule Demo,30,936.87,939.5,30.86,871,1005,47.51
-Cyber Awareness Webinar,30,186.23,188.5,14.51,150,204,23.05
+AI Cyber Assistant,24,1506.13,1510.0,83.04,1360,1720,23.2
+Network Security Audit,24,1277.92,1287.0,52.31,1128,1359,18.86
+Penetration Testing,24,1201.42,1219.5,89.73,1020,1347,8.64
+Schedule Demo,24,946.54,953.5,29.49,886,991,44.98
+Cyber Awareness Webinar,24,217.33,227.5,28.43,160,255,22.85

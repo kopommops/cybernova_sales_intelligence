@@ -17,7 +17,7 @@
   "ci_hc3_upper_pp": 7.489,
   "p_value_hc3": 0.0,
   "refutation": {
-    "placebo_ate_pp": -0.026,
+    "placebo_ate_pp": 0.018,
     "random_cause_pp": 7.089,
     "placebo_pass": true,
     "random_pass": true,
